@@ -1,0 +1,15 @@
+@media (min-width: 901px) {
+    .container {
+        width: 84%;
+        max-width: 1100px;
+    }
+
+    .hero {
+        padding-top: 85px;
+        padding-bottom: 85px;
+    }
+
+    .card-grid {
+        gap: 22px;
+    }
+}

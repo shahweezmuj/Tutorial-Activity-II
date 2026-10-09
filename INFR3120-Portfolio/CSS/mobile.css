@@ -1,0 +1,72 @@
+@media (max-width: 600px) {
+    body {
+        font-size: 15px;
+    }
+
+    .container {
+        width: 92%;
+    }
+
+    .site-header {
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+
+    .navbar {
+        grid-template-columns: 1fr;
+        gap: 10px;
+        padding: 15px 0;
+    }
+
+    .nav-links {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        justify-content: stretch;
+        gap: 8px 15px;
+    }
+
+    .hero {
+        grid-template-columns: 1fr;
+        gap: 28px;
+        padding: 40px 0;
+    }
+
+    .hero h1 {
+        font-size: 36px;
+    }
+
+    .hero-image {
+        width: 220px;
+        height: 275px;
+        margin: 0 auto;
+    }
+
+    .hero-buttons {
+        grid-template-columns: 1fr;
+    }
+
+    .hero-buttons .button {
+        width: 100%;
+    }
+
+    .two-columns,
+    .three-columns {
+        grid-template-columns: 1fr;
+    }
+
+    .page-heading {
+        padding-top: 35px;
+    }
+
+    .page-heading h1 {
+        font-size: 34px;
+    }
+
+    .section {
+        padding: 25px 0;
+    }
+
+    .card,
+    .content-panel {
+        padding: 18px;
+    }
+}
