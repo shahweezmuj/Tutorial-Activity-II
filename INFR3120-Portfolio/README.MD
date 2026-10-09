@@ -86,24 +86,13 @@ Accessibility:
 Record the results from the WAVE accessibility checker.
 
 Responsive testing:
-Test at 390px, 768px, and 1366px screen widths.
+Tested at 390px, 768px, and 1366px screen widths.
 Record any layout problems and how they were fixed.
-
-Spelling:
-Check all page content and correct any errors.
-
-## External Sources and Attribution
-
-List any external code, images, tutorials, or other resources used.
-Include the author and source URL where required.
-
-Document AI assistance according to the instructor's requirements.
-Identify any code that was adapted from outside sources.
 
 ## Deployment
 
 Live website:
-ADD YOUR GITHUB PAGES URL
+https://shahweezmuj.github.io/Tutorial-Activity-II/
 
 Public GitHub repository:
 https://github.com/shahweezmuj/Tutorial-Activity-II
