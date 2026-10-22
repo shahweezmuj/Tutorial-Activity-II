@@ -68,9 +68,6 @@ Colour values:
 - Accent orange: #f28c28
 - Lighter orange: #ffa044
 
-Adobe Color harmony and URL:
-ADD YOUR ACTUAL SELECTION AND LINK
-
 ## Testing and Validation
 
 HTML validation:
