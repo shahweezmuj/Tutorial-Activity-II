@@ -68,6 +68,8 @@ Colour values:
 - Accent orange: #f28c28
 - Lighter orange: #ffa044
 
+https://color.adobe.com/create/color-wheel?color-palette=171819%2C222426%2C37393B%2CF28C28%2CF2F2F2&color-palette-name=My+Color+Theme
+
 ## Testing and Validation
 
 HTML validation:
